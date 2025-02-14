@@ -1,4 +1,4 @@
-# Drone Detection with YOLO & DJI Tello Drone  
+# Drone Detection 
  
 This project utilizes **YOLOv8** for real-time drone detection, trained on a **custom dataset** and deployed on both a **DJI Tello drone** and a **webcam**.
 
