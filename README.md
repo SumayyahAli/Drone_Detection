@@ -2,6 +2,9 @@
  
 This project utilizes **YOLOv8** for real-time drone detection, trained on a **custom dataset** and deployed on both a **DJI Tello drone** and a **webcam**.
 
+![Image](https://github.com/user-attachments/assets/d2283d8e-79f6-4bf4-a886-7ea7a524865a)
+
+the video ref: [Here](https://www.youtube.com/watch?v=0UqXRkjDJGo).
 
 ## Project Overview  
 - **Model Training & Testing** → Conducted in **Google Colab**. 
