@@ -17,7 +17,6 @@ Model training and testing are **performed in Google Colab**.
 
 
 ## Deploying 
-After training, the **trained model** has been deployed on the **webcam & dji tello drone**.  
 
 ### Dependencies to be installed
 - python 3.10
@@ -33,10 +32,8 @@ After training, the **trained model** has been deployed on the **webcam & dji te
 
 ## Testing & results 
 
-- **`test_data/`**  
-
-- **`results/`**
-
+- **`test_data/`** → test data files.
+- **`results/`**  → test data files after detection.
 
 ## Refrences
 
