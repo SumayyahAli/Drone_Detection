@@ -14,7 +14,7 @@ the video ref: [Here](https://www.youtube.com/watch?v=0UqXRkjDJGo).
 
 
 ## Model Training & Testing  
-Model training and testing are **performed in Google Colab**.
+
 - **`AI_DroneDetection.ipynb`** 
 
 
