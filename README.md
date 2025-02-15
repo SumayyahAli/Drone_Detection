@@ -24,7 +24,7 @@ Model training and testing are **performed in Google Colab**.
 ### Dependencies to be installed
 - python 3.10
 - opencv
-- numpy 
+- ultralytics
 - djitellopy → to control dji tello drone 
 
 ### Deployment Files
