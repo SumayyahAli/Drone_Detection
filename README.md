@@ -8,7 +8,7 @@ the video ref: [Here](https://www.youtube.com/watch?v=0UqXRkjDJGo).
 
 ## Project Overview  
 - **Model Training & Testing**: Conducted in **Google Colab**. 
-- **Deployment**: Runs on a webcam and DJI Tello drone.
+- **Deployment**: Runs on a webcam and DJI Tello drone cam.
 - **Test Data**: Sample **images** for evaluation.  
 
 
