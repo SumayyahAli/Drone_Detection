@@ -43,4 +43,4 @@ the video ref: [Here](https://www.youtube.com/watch?v=0UqXRkjDJGo).
  - Drone Dataset: [Kaggle - Drone Detection Dataset](https://www.kaggle.com/datasets/muki2003/yolo-drone-detection-dataset?resource=download)
 
 - YOLO Training Docs: [YOLO Training Guide](https://docs.ultralytics.com/modes/train/#resuming-interrupted-trainings)
-- YOLO Predict Docs: [YOLO Predict Guide](https://docs.ultralytics.com/modes/predict/#inference-sources)
+
